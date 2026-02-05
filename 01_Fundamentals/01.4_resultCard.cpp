@@ -14,10 +14,10 @@ int main()
 	cout<<"Enter your marks in Fundamentals of Sociology"<<endl;
 	cin>>c;
 	cout<<" \t \t \t \tResult Card"<<endl;
-	cout<<"Name: Muhammad Ahmad Hamim \t \t \t";
-	cout<<"Reg#:- SP25-BSE-019/WAH"<<endl;
-	cout<<"Session: Spring-25 \t \t \t \t";
-	cout<<"Semester: 1"<<endl;
+	cout<<"Name:__________________\t \t \t";
+	cout<<"Reg#:- ____-___-___/___"<<endl;
+	cout<<"Session: _____-__ \t \t \t \t";
+	cout<<"Semester: _"<<endl;
 	cout<<"Subjects";
 	cout<<"\t \t \t \t \tTotal Marks";
 	cout<<"\t Obtained Marks"<<endl;
