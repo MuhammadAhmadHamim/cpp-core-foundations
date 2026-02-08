@@ -17,6 +17,5 @@ This repository is a comprehensive archive of my journey with C++. It documents 
 /cpp-core-foundations
   ├── 🟢 01_Fundamentals/     # Variables, Loops, Conditionals, Arrays
   ├── 🟡 02_Advanced_Logic/    # Pointers, Memory Allocation, Recursion
-  ├── 🔵 03_OOP_Principles/    # Classes, Inheritance, Polymorphism
-  ├── 🚀 04_Minor_Projects/    # Standalone applications and tools
-  └── 🏆 05_Problem_Solving/   # Logic building and competitive programming
+  ├── 🚀 03_Minor_Projects/    # Standalone applications and tools
+  └── 🏆 04_Problem_Solving/   # Logic building and competitive programming
