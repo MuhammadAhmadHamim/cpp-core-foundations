@@ -6,7 +6,7 @@ This repository is a comprehensive archive of my journey with C++. It documents 
 
 ## 🏛️ Repository Overview
 * **Objective:** To build a robust understanding of low-level memory management and high-performance logic.
-* **Scope:** Covers Basics, Object-Oriented Programming (OOP), Data Structures, and System-level logic.
+* **Scope:** Covers Basics, Data Structures, and System-level logic.
 * **Language:** C++ (Standard 11/14/17)
 
 ---
