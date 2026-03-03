@@ -147,7 +147,7 @@ struct Student { std::string name; float gpa; };
 
 ```bash
 # Clone the vault
-git clone https://github.com/your-username/cpp-core-foundations.git
+git clone https://github.com/MuhammadAhmadHamim/cpp-core-foundations.git
 cd cpp-core-foundations
 
 # Navigate to any chapter
