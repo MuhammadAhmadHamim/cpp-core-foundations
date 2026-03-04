@@ -1,7 +1,7 @@
 #include<iostream>
 #include<conio.h>
 using namespace std;
-//Let's declare a sturcture containing the required variables
+//Let's declare a structure containing the required variables
 struct Student{
 	char name[50];
 	int rollNumber;
