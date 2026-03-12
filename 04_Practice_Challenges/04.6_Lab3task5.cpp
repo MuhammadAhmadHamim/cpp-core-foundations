@@ -15,11 +15,11 @@ int main()
     Qty=(double) qty;     //Let's convert qty integer into double by c-style casting
     
 	double SalesReps;
-        SalesReps=double(salesReps);     //Let's convert salesReps integer into double by functional-style casting
+    SalesReps=double(salesReps);     //Let's convert salesReps integer into double by functional-style casting
 
     double unitsEach;
     unitsEach=Qty/SalesReps;
     cout<<"The value of unitsEach is "<<unitsEach<<endl;
-    	getch();
+    getch();
     return 0;  
 }
