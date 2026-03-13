@@ -42,7 +42,7 @@ cpp-core-foundations/
 ├── 🟡  02_Advanced_Logic/
 │       └── [pointers_and_references, memory_allocation, strings, structures]
 │
-├── 🚀  03_Minor_Projects/
+├── 🚀  03_Projects/
 │       └── [standalone applications & tools]
 │
 └── 🏆  04_Problem_Solving/
@@ -92,7 +92,7 @@ Where things got serious. This chapter is about understanding what the machine i
 </details>
 
 <details>
-<summary><b>🚀 03 — Minor Projects &nbsp;|&nbsp; Build Something Real</b></summary>
+<summary><b>🚀 03 — Projects &nbsp;|&nbsp; Build Something Real</b></summary>
 <br/>
 
 Standalone applications and tools built to consolidate everything from the first two chapters. Each project is a contained, working program — proof that the concepts weren't just memorized, they were *used*.
