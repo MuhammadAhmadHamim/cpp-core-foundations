@@ -33,7 +33,7 @@ int inputcheck(bool match[][6] , int rows , int columns){
 }
 void score_board(int score1,int score2){
 	ofstream write;
-	write.open("C:\\Users\\Dell-6440\\Documents\\Saved scores.txt",ios::out);
+	write.open("Saved scores.txt",ios::out);
 	if(write.fail()){
 		cout<<"Failed to open the file!\n";
 	}
@@ -45,7 +45,7 @@ void score_board(int score1,int score2){
 }
     write.close();
     ifstream read;
-    read.open("C:\\Users\\Dell-6440\\Documents\\Saved scores.txt",ios::in);
+    read.open("Saved scores.txt",ios::in);
     if(read.fail()){
         cout<<"Failed to open the file!\n";
 	}
